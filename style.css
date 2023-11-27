@@ -1,0 +1,45 @@
+/* .logo {
+  imgurl("./Kamma_overskift.png");
+  background-position-x: center;
+  background-repeat: no-repeat;
+  height: 400px;
+} */
+img {
+  display: block;
+  max-width: 100%;
+  width: 450px;
+  margin: auto;
+  padding: 15px;
+}
+
+video {
+  display: block;
+  width: 500px;
+  max-width: 95vw;
+  aspect-ratio: 16/9;
+  margin: auto;
+  padding: 5px;
+}
+
+video {
+  display: block;
+  width: 500px;
+  max-width: 95vw;
+  aspect-ratio: 16/9;
+  margin: auto;
+  padding: 5px;
+}
+
+.container {
+  max-width: 95vw;
+  margin: 0 auto;
+}
+.embedvideo {
+  max-width: 95vw;
+  margin: 0 auto;
+}
+
+.boks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
