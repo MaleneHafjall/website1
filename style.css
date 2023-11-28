@@ -52,4 +52,13 @@
   .gap {
     height: 100px;
   }
+  h1,
+  h2,
+  h3,
+  h4,
+  figcaption {
+    font-family: Verdana;
+    font-size: 20px;
+    color: palevioletred;
+  }
 }
